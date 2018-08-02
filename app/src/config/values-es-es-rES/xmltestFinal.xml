@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [<!ENTITY appname "must echo through">]>
+<resources custom-attribute="must-be-present-in-translated-file">
+    <string name="key-1">El zorro marrón [[quick]] saltó sobre el perro perezoso</string>
+    <string name="key-2">No pareces un caballo regalado en \n la boca</string>
+    <!-- Comment on It's ducks all the way down. -->
+    <string name="key-3">Se agacha hasta el make edits</string>
+    <plurals name="key-plural-1">
+        <item quantity="one">Ya te dije A9181776437773884826U tiempo %d</item>
+        <item quantity="other">Ya te dije A9181776437773884826U tiempo %d</item>
+    </plurals>
+    <string-array name="day_of_week">
+        <!-- First day of the week -->        <item>El lunes es el primer día</item>
+        <item>el resto</item>
+    </string-array>
+    <string name="key-0"></string>
+    <string name="segment-with-qoutationmarsk">". solo qoute 'y algunos doble qoute \"oye   "</string>
+</resources>
